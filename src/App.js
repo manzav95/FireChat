@@ -94,7 +94,7 @@ function App() {
             onChange={(e) => setFormValue(e.target.value)}
           />
           <button type='submit' disabled={!formValue}>
-            Submit
+            Submt
           </button>
         </form>
       </>
